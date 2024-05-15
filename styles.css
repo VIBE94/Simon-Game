@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+
+#yellow {
+  background-color: yellow;
+}
+
+.boxes{
+  width: 50vw;
+  height: 500px;
+  margin: auto;
+  
+}
+
+h1{
+ 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin: 5%;
+    color: #FEF2BF;
+    font-weight: bold;
+}
+
+.btn{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  margin-right: 50px;
+  border-radius: 40px;
+  border: 10px solid black;
+}
+
+.row{
+  height: 250px;
+  display: block;
+}
+
+p{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin-top: 0px;
+  color: #FEF2BF;
+  font-weight: bold; 
+}
+
+
+.shadow{
+  background-color: black;
+}
+.blink {
+  animation: blink 1s infinite;
+}
+
+
+
+
